@@ -152,3 +152,10 @@ i:hover{
     background-color: white;
     font-size:25px;
 }
+
+@media only screen and (max-width: 600px) {
+    img{
+        width:60vw;
+        /* height: auto; */
+    }
+}
